@@ -1,0 +1,1 @@
+var t={login:"login",register:"register",changePassword:"changepassword",resetPassword:"resetpassword",forgetPassword:"forgetpassword",mainLayout:"mainlayout"};var e={invitaions:"invitations",view:"view",create:"create"},s={blacList:"blackList",view:"view",create:"create"};export{t as a,e as b,s as c};
